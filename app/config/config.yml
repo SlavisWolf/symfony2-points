@@ -72,3 +72,6 @@ easy_admin:
     entities:
         - Empresa\EventosBundle\Entity\Point
         - Empresa\EventosBundle\Entity\Event
+        - Empresa\EventosBundle\Entity\Track
+        - Empresa\EventosBundle\Entity\UserLike
+        - Empresa\EventosBundle\Entity\User
